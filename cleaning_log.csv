@@ -1,0 +1,96 @@
+id,action,reason
+tr-00020,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00049,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00058,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00060,drop,Invalid JSON label
+tr-00072,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00077,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00095,drop,Invalid JSON label
+tr-00114,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00120,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00123,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00125,drop,Invalid JSON label
+tr-00153,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00160,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00172,drop,Invalid JSON label
+tr-00178,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00192,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00219,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00223,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00249,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00258,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00263,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00267,drop,Invalid JSON label
+tr-00320,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00346,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00347,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00357,drop,Invalid JSON label
+tr-00365,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00370,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00385,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00457,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00461,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00475,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00478,drop,Invalid JSON label
+tr-00497,drop,Invalid JSON label
+tr-00516,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00556,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00558,drop,Invalid JSON label
+tr-00577,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00589,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00602,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00605,drop,Invalid JSON label
+tr-00606,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00610,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00628,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00656,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00670,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00674,drop,Invalid JSON label
+tr-00677,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00685,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00704,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00735,drop,Invalid JSON label
+tr-00744,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00765,drop,Invalid JSON label
+tr-00778,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00791,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00809,drop,Invalid JSON label
+tr-00820,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00824,drop,Invalid JSON label
+tr-00839,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00846,drop,Invalid JSON label
+tr-00922,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00958,drop,Invalid JSON label
+tr-00960,drop,Invalid JSON label
+tr-00975,drop,Invalid JSON label
+tr-00978,drop,Invalid JSON label
+tr-00979,drop,Invalid JSON label
+tr-00980,drop,Invalid JSON label
+tr-00985,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-00987,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01006,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01028,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01046,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01070,drop,Invalid JSON label
+tr-01083,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01087,drop,Invalid JSON label
+tr-01089,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01115,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01133,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01143,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01151,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01158,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01178,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01199,drop,Invalid JSON label
+tr-01202,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01274,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01286,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01301,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01326,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01331,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01343,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01359,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01366,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01386,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01413,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
+tr-01441,drop,Corrupted schema: uses prio instead of priority; value cannot be mapped safely
